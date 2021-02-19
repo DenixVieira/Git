@@ -1,3 +1,5 @@
 teste
 entendo o Head 
 está linha está modificada no master
+entendo o Head
+esta linha foi modificada no ramo teste
