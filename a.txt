@@ -1,2 +1,3 @@
 teste
-entendo o Head
+entendo o Head 
+está linha está modificada no master
